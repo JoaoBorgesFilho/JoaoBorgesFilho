@@ -18,8 +18,7 @@
 ---
 
 ### 💼 Projetos em Destaque
-
-- 🧑‍💻 [**My Portfolio**](https://joaoborgesfilho.github.io/my-portfolio) — página pessoal com meus principais projetos e contatos  
+  
 - 🧠 [**Memory Gamer**](https://joaoborgesfilho.github.io/memory-game/) — jogo da memória feito com HTML, CSS e JavaScript  
 - ✅ [**To-do List**](https://joaoborgesfilho.github.io/to-do-list-project/) — lista de tarefas com tema claro/escuro e responsividade  
 - 🧮 [**Calculadora**](https://joaoborgesfilho.github.io/calculator-project/) — calculadora simples e funcional com design moderno, com tema claro/escuro e responsividade
@@ -28,7 +27,6 @@
 
 ### 📫 Onde me encontrar
 
-- 🌍 Portfólio: [joaoborgesfilho.github.io/my-portfolio](https://joaoborgesfilho.github.io/my-portfolio)
 - 💼 LinkedIn: [linkedin.com/in/joaoborges](https://www.linkedin.com/in/joão-borges-b28311292/)
 
 ---
