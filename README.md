@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o João Borges!
 
 📚 Cursando **Análise e Desenvolvimento de Sistemas** na **Uninter**  
-💻 Apaixonado por tecnologia e desenvolvimento **fullstack**  
+💻 Apaixonado por tecnologia e desenvolvimento front-end, com foco em React e uso de React Hooks.  
 🚀 Em busca da minha primeira oportunidade como desenvolvedor  
-🌱 Atualmente aprendendo mais sobre **JavaScript moderno**, **React** e consumo de **APIs**  
+🌱 Atualmente aprofundando meus estudos em **JavaScript moderno**, **React** e consumo de **APIs REST**  
 🎯 Objetivo: dominar tanto o **front-end** quanto o **back-end**
 
 ---
@@ -17,11 +17,22 @@
 
 ---
 
+### 🧠 Conceitos e práticas
+
+- React Hooks (useState, useEffect)
+- Consumo de APIs REST
+- Componentização
+- Gerenciamento de estado
+- Layout responsivo
+
+---
+
 ### 💼 Projetos em Destaque
   
-- 🧠 [**Memory Gamer**](https://joaoborgesfilho.github.io/memory-game/) — jogo da memória feito com HTML, CSS e JavaScript  
-- ✅ [**To-do List**](https://joaoborgesfilho.github.io/to-do-list-project/) — lista de tarefas com tema claro/escuro e responsividade  
-- 🧮 [**Calculadora**](https://joaoborgesfilho.github.io/calculator-project/) — calculadora simples e funcional com design moderno, com tema claro/escuro e responsividade
+- 🎵 [**Project Spotify (NuVity)**] — interface inspirada no Spotify, desenvolvida com **React**, integração com a **API do Spotify** e autenticação via **Authorization Code Flow (PKCE)**  
+- 🧠 [**Memory Game**](https://joaoborgesfilho.github.io/memory-game/) — jogo da memória feito com HTML, CSS e JavaScript  
+- 🧮 [**Calculadora**](https://joaoborgesfilho.github.io/calculator-project/) — calculadora simples e funcional com design moderno, tema claro/escuro e responsividade  
+- ✅ **To-do List** — lista de tarefas em React com tema claro/escuro, responsividade e foco em usabilidade *(deploy em andamento)*  
 
 ---
 
@@ -31,4 +42,4 @@
 
 ---
 
-> “Nada é em vão se te faz crescer.” – João Borges
+> “Nada é em vão se te faz crescer.” - João Borges
