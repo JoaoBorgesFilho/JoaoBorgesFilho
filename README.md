@@ -18,11 +18,12 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 
 ### Conceitos e práticas
-- React Hooks (`useState`, `useEffect`)  
+- React Hooks (`useState`, `useEffect`, `useRef`)  
 - Consumo de **APIs REST**  
 - Componentização e **organização de código**  
 - Gerenciamento de estado  
 - Layout responsivo e design moderno
+- Manipulação de arrays e objetos (map, filter, reduce), gerenciamento de estado e lógica de aplicações.
 
 ---
 
@@ -48,7 +49,7 @@
 ## 📫 Onde me encontrar
 
 - 💼 LinkedIn: [linkedin.com/in/joaoborges](https://www.linkedin.com/in/joão-borges-b28311292/)  
-- 📧 Email: seuemail@exemplo.com *(opcional, se quiser adicionar)*
+- 📧 Email: joao.borges029@gmail.com
 
 ---
 
