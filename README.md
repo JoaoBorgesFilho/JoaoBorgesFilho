@@ -29,7 +29,11 @@
 
 ### 💼 Projetos em Destaque
   
-- 🎵 [**Project Spotify (NuVity)**] — interface inspirada no Spotify, desenvolvida com **React**, integração com a **API do Spotify** e autenticação via **Authorization Code Flow (PKCE)**  
+- 🎵 [**🎵 Project Spotify — aplicação full-stack inspirada no Spotify, 
+com front-end desenvolvido em React e Vite e back-end em Node.js com Express, 
+utilizando MongoDB para persistência de dados de artistas e músicas. 
+O front-end consome uma API REST própria desenvolvida no back-end utilizando Axios.
+**  
 - 🧠 [**Memory Game**](https://joaoborgesfilho.github.io/memory-game/) — jogo da memória feito com HTML, CSS e JavaScript  
 - 🧮 [**Calculadora**](https://joaoborgesfilho.github.io/calculator-project/) — calculadora simples e funcional com design moderno, tema claro/escuro e responsividade  
 - ✅ **To-do List** — lista de tarefas em React com tema claro/escuro, responsividade e foco em usabilidade *(deploy em andamento)*  
