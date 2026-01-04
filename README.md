@@ -1,8 +1,9 @@
 # 👋 Olá, eu sou o João Borges
 
 📚 Cursando **Análise e Desenvolvimento de Sistemas** na **Uninter**  
-💻 Apaixonado por tecnologia e desenvolvimento front-end e full-stack
-🚀 Em busca da minha primeira oportunidade como desenvolvedor
+💻 Apaixonado por tecnologia e desenvolvimento front-end e full-stack, com foco em **React** e uso de **React Hooks**  
+🚀 Em busca da minha primeira oportunidade como desenvolvedor  
+
 
 ---
 
@@ -17,7 +18,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 
 ### Conceitos e práticas
-- React Hooks (`useState`, `useEffect`, `useRef`)  
+- React Hooks (`useState`, `useEffect`)  
 - Consumo de **APIs REST**  
 - Componentização e **organização de código**  
 - Gerenciamento de estado  
@@ -47,7 +48,7 @@
 ## 📫 Onde me encontrar
 
 - 💼 LinkedIn: [linkedin.com/in/joaoborges](https://www.linkedin.com/in/joão-borges-b28311292/)  
-- 📧 Email: joao.borges029@gmail.com
+- 📧 Email: seuemail@exemplo.com *(opcional, se quiser adicionar)*
 
 ---
 
