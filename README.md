@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o João Borges
 
 📚 Cursando **Análise e Desenvolvimento de Sistemas** na **Uninter**  
-💻 Apaixonado por tecnologia e desenvolvimento front-end e full-stack, com foco em **React** e uso de **React Hooks**  
+💻 Apaixonado por tecnologia e desenvolvimento front-end e full-stack  
 🚀 Em busca da minha primeira oportunidade como desenvolvedor  
 
 
