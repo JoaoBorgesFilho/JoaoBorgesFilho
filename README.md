@@ -29,7 +29,7 @@
 
 ## 💼 Projetos em destaque
 
-### 🎵 [Project Spotify](https://github.com/JoaoBorgesFilho/project-spotify)
+### 🎵 [Project Spotify](https://https://project-spotify-rxxe.onrender.com/)
 - Aplicação **full-stack**, com front-end em React + Vite e back-end em Node.js + Express  
 - Persistência de dados de artistas e músicas em **MongoDB**  
 - Front-end consome a **API REST própria** desenvolvida no back-end utilizando **Axios**  
