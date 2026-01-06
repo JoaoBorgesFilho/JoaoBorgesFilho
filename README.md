@@ -40,9 +40,8 @@
 ### 🧮 [Calculadora](https://joaoborgesfilho.github.io/calculator-project/)
 - Calculadora funcional com design moderno, tema claro/escuro e responsividade  
 
-### ✅ To-do List
-- Lista de tarefas em React com tema claro/escuro, responsividade e foco em **usabilidade**  
-- *(deploy em andamento)*
+### ✅ [To-do List](https://to-do-list-project-chi-beryl.vercel.app/)
+- Aplicação front-end em **React + Vite**, com gerenciamento de estado via **Hooks**, **busca em tempo real**, **filtros**, **ordenação**, **tema claro/escuro** e **deploy na Vercel** 
 
 ---
 
